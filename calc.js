@@ -16,3 +16,5 @@ function calculator(num1, num2, operator){
 }
 
 console.log(calculator(9,9,multiply));
+
+//Test
